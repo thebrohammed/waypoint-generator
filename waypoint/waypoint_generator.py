@@ -185,3 +185,4 @@ ttk.Button(btn_frame, text="💾 Export as Image/PDF", bootstyle="warning", widt
 ttk.Button(btn_frame, text="✅ Generate Waypoints", bootstyle="success", width=20, command=run).grid(row=0, column=2, padx=10)
 
 root.mainloop()
+
