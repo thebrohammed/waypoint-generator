@@ -22,8 +22,7 @@ waypoint-generator/
 │
 ├── waypoint\_generator.py      # Main GUI script
 ├── README.md                  # This file
-├── sample.csv                 # Sample input CSV
-└── preview\.png                # Optional screenshot of GUI
+└── sample.csv                 # Sample input CSV
 
 ```
 
